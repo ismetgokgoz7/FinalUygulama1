@@ -1,2 +1,2 @@
-# FinalUygulama1
-İlk final uygulamam
+Final Uygulamalarım
+Final ödevi için hazırladıgım  java uygulamaları
